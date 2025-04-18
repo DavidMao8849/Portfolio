@@ -26,8 +26,8 @@
 > - 핵심 역할 : 팀장, Asp.Net, .aspx 웹 폼등을 이용해 웹페이지를 구성, HTML태그 활용과 .cs(C#)파일에서 컨트롤을 제어하기 위한 기본적인 코딩(if문, switch case문 등)을 활용
 >
 >> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
+>> - Language : C#  
+>> - Skill : ASP.Net
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
 >
