@@ -15,7 +15,7 @@
 # 📝Projects
 학업중에 진행했던 프로젝트들을 소개합니다!  
 대부분의 프로젝트에서 팀장을 맡았었으며, 개인적으로 정리한 보고서도 존재합니다.  
-팀장의 역할로썬 프로젝트의 구조/계획 설계와 일정관리, 팀원들간의 의사소통, 문제해결 자문을 경험하였고,
+팀장의 역할로썬 프로젝트의 구조/계획 설계와 일정관리, 팀원들간의 의사소통, 문제해결 자문을 경험하였고, <br />
 개발자 역할에서는 ***프로젝트 MVP와 관련된 핵심 기능과 알고리즘 개발***을 맡아 진행했습니다.
 
 ## 1. 🎞Movie Recommend
@@ -23,7 +23,8 @@
 > 연도별 흥행 영화 리스트와 영화 다시보기 추천 _(서버구축 및 실습 - PBL 팀프로젝트)_
 >
 > - 개발기간 : 2020.11.07-12.01
-> - 핵심 역할 : 팀장, 프로젝트의 전반적인 역할[주제/아이디어 제시, 웹 구조 디자인 및 설계, 웹 개발 및 구현] 
+> - 핵심 역할 : 팀장, 프로젝트의 전반적인 역할[주제/아이디어 제시, 웹 구조 디자인 및 설계, 웹 개발 및 구현]
+> - 개발 환경 : Visual Studio
 >
 >> Back-end
 >> - Language : C#
@@ -34,18 +35,19 @@
 >> - Language : HTML/CSS
 >> - Skill : ASP.Net 웹폼(HTML/CSS + ASP.NET 컨트롤) 디자인
 >>
->> [프로젝트 상세 설명](https://github.com/DavidMao8849/Movie_Recommend_Project/tree/main)
+> [프로젝트 상세 설명](https://github.com/DavidMao8849/Movie_Recommend_Project/tree/main)
 
 <br />
 
 ## 2. 📄
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+> 정적 웹 크롤링 _(내일배움캠프 - 4520조 팀프로젝트)_
 >
-> - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
+> - 개발기간 : 2024.04.28-07.06
+> - 핵심 역할 : 개발, HTML 코드 파싱 및 해석
+> - 개발환경 : Google Colab
 > - Language : python3
-> - Skill : Django, Django-rest-framework
+> - Skill : Beautifulsoup, requests, pandas
 >
 > [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
 
