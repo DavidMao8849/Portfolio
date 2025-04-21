@@ -41,7 +41,7 @@
 
 ## 2. 📄
 
-> 정적 웹 크롤링 _(내일배움캠프 - 4520조 팀프로젝트)_
+> 정적 웹 크롤링 _()_
 >
 > - 개발기간 : 2024.04.28-07.06
 > - 핵심 역할 : 개발, HTML 코드 파싱 및 해석
@@ -53,54 +53,41 @@
 
 <br />
 
-## 3. 🍻 MyLittleBeer
+## 3. 🍻 
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+>  _()_
 >
 > - 개발기간 : 2022.06.02-13
 > - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
 > - Language : python3, javascript
 > - Skill : Django, MySQL
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> [프로젝트 상세 설명]()
 
 <br />
 
-## 4. 👊 MyLittelHero
+## 4. 🎮 Sparta Fighter
 
-> 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
->
-> - 개발기간 : 2022.05.18-25
-> - 핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
-> - Language : python3   
-> - Skill : flask, mongoDB
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
-
-<br />
-
-## 5. 🎮 Sparta Fighter
-
-> 2d 횡스크롤 격투 게임 _(내일배움캠프 - 개인 프로젝트)_
+> 
 >
 > - 개발기간 : 2022.04.25-27
 > - 핵심 역할 : 캐릭터 클래스 구현 및 이벤트 루프 작성
 > - Language : python3
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/sparta_fighter)
+> [프로젝트 상세 설명]()
 
 <br />
 
-## 6. 🎶 RE:TRO | 그때 그 시절, 당신의 음악
+## 4. 
 
-> 1980-2010년 뮤직 웹사이트 _(메이킹챌린지 - 코딩왕조 팀프로젝트)_
+> 1980-2010년 뮤직 웹사이트 _()_
 >
 > - 개발기간 : 2022.03.02-17
 > - 핵심 역할 : 팀장, 노래 재생 기능, 좋아요 기능
 > - Language : python3, javascript
 > - Skill : flask, mongoDB
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/retro_main)
+> [프로젝트 상세 설명]()
 
 <br />
 
@@ -111,13 +98,13 @@
 
 # 📞 Contact
 
-- 이메일 : kimphysicsman@gmail.com
-- 블로그 : <a href="https://velog.io/@kimphysicsman">
+- 이메일 : tlak8849@gmail.com, lew010509@naver.com
+- 블로그 : <a href="">
   <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
   </a>
-- 깃허브 : <a href="https://github.com/kimphysicsman">
+- 깃허브 : <a href="">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
-- 유튜브 :<a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg">
+- 유튜브 :<a href="">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
