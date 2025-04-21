@@ -49,7 +49,7 @@
 > - Language : python3
 > - Skill : Beautifulsoup, requests, pandas
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/DavidMao8849/Web_Crawler)
 
 <br />
 
