@@ -7,16 +7,16 @@
 # 🙋‍♂️ Intro
 
 > 안녕하십니까! ***"새로운 지식을 탐구하고 미래를 위해 도약하는 "*** **이은우**입니다!  
-> 3년간 학교를 다니며 진행했던 팀프로젝트를 통해 인공지능과 데이터과학에 쉽게 접근하여 역량을 길렀으며<br />
-> 이 프로젝트의 진행과정들을 정리하고 기록하였습니다! 
+> 3년간 학교를 다니며 진행했던 팀프로젝트를 통해 개발자의 핵심 역량을 길렀으며<br/>
+> 이 프로젝트들의 진행과정들을 정리하고 기록하였습니다! 
 
 <br />
 
 # 📝Projects
 학업중에 진행했던 프로젝트들을 소개합니다!  
-대부분의 프로젝트에서 팀장을 맡았었으며, 개인으로 진행한 학업 보고서도 존재합니다.  
-팀장의 역할로썬 프로젝트의 구조/계획 설계와 일정관리, 팀원들간의 의사소통, 문제해결 자문을 경험하였고, <br />
-개발자 역할에서는 ***프로젝트 MVP와 관련된 핵심 기능과 알고리즘 개발***을 맡아 진행했습니다.
+인공지능 학습, 데이터 분석/정제, Django기반 웹만들기 등 다방면의 프로젝트를 진행했으며, 개인으로 진행한 학업 보고서도 존재합니다.  
+팀장의 역할로썬 ***프로젝트의 구조/계획 설계와 일정관리, 팀원들간의 의사소통, 문제해결 능력 향상***을 경험하였고, <br />
+개발자 역할에선 ***개발과 관련된 각종 Tool & 라이브러리 & 프레임워크 기능 이해***를 경험했습니다.
 
 ## 1. 🎞Movie Recommend
 
@@ -41,7 +41,7 @@
 
 ## 2. 📄 Static Web Crawling
 
-> 정적 웹 크롤링 _(인공지능과 데이터과학 - PBL 팀프로젝트)_
+> 이디야 커피 웹사이트 정적 웹 크롤링 _(인공지능과 데이터과학 - PBL 팀프로젝트)_
 >
 > - 개발기간 : 2024.04.28-06.18
 > - 핵심 역할 : 개발, HTML 코드 파싱 및 해석
@@ -58,7 +58,7 @@
 > tkinter을 이용한 간단한 게임만들기 _(파이썬 프로그래밍 - PBL 팀프로젝트[개인])_
 >
 > - 개발기간 : 2024.05.23-06.18
-> - 핵심 역할 : 
+> - 핵심 역할 : 개발, 게임 기능 추가 아이디어 제공
 > - 개발환경 : Visual Studio Code
 > - Language : python3
 > - Skill : tkinter
@@ -69,27 +69,29 @@
 
 ## 4. 📈Linear Regression Project
 
-> 건물[주택] 가격 예측 프로젝트 - 회귀분석 기반 부동산 모델링 _(PBL 팀프로젝트[개인])_
+> 건물[주택] 가격 예측 프로젝트 - 회귀분석 기반 부동산 모델링 _(인공지능과 데이터과학 - PBL 팀프로젝트[개인])_
 >
 > - 개발기간 : 2024.11.14-12.03
-> - 핵심 역할 : 
-> - Language : python3, javascript
-> - Skill : flask, mongoDB
+> - 핵심 역할 : 개발, AI 학습모델 선별, 데이터 분석 & 정제
+> - 개발환경 : Google Colab
+> - Language : python3
+> - Skill : Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, RandomizedSearchCV
 >
-> [프로젝트 상세 설명]()
+> [프로젝트 상세 설명](https://github.com/DavidMao8849/Linear_Regression_Project)
 
 <br />
 
-## 3. 🍻 
+## 5. 🙌 Introduce Team Member 
 
->  _()_
+>  Django 기반 팀원 소개 웹 애플리케이션_(파이썬 프로그래밍 - PBL 팀프로젝트[개인])_
 >
-> - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
+> - 개발기간 : 2024.11.23-12.08
+> - 핵심 역할 : 개발, 템플릿 시스템, URLconf, View 함수를 통한 화면 구성, Form기반 팀원 정보, 친구 등록/조회 기능 구현, DB관리
+> - 개발환경 : Pycharm
+> - Language : python3
+> - Skill : Django, SQLite3
 >
-> [프로젝트 상세 설명]()
+> [프로젝트 상세 설명](https://github.com/DavidMao8849/Django_Website)
 
 # 📝Report
 학업중에 작성했던 보고서들을 소개합니다!
@@ -102,7 +104,7 @@
 - 블로그 : <a href="">
   <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
   </a>
-- 깃허브 : <a href="">
+- 깃허브 : <a href="https://github.com/DavidMao8849">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
   </a>
 - 유튜브 :<a href="">
