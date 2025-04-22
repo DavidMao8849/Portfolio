@@ -63,7 +63,7 @@
 > - Language : python3
 > - Skill : tkinter
 >
-> [프로젝트 상세 설명](https://github.com/DavidMao8849/Broken_Wall_Game)
+> [프로젝트 상세 설명](https://github.com/DavidMao8849/Break_Out_Game)
 
 <br />
 
