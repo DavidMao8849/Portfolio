@@ -124,7 +124,7 @@
 > ### 📌 SyntheticRegressionData 클래스
 > - 인공 회귀 데이터 생성, 학습/검증 데이터 배치 제공
 > ## 📎 부록
-> - 결과 보고서: [`기계학습(1) 결과보고서.pdf`](https://github.com/DavidMao8849/Portfolio/blob/9a059dacebcffdba32b73c44aa85c569dcb53ef9/Report/0613%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5_PBL_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C(%EC%9D%B4%EC%9D%80%EC%9A%B0).pdf)
+> - 결과 보고서: [`기계학습(1) 결과보고서.pdf`](Report/0613-기계학습_PBL_결과보고서(이은우).pdf)
 <br/>
 
 >> **기계학습(2) PBL 프로젝트 | 이은우 (202025016)**  
@@ -166,7 +166,7 @@
 > - 눈대중으로 박스 좌표 추정 → bounding box 그리기
 > - 잘못된 경우 박스 좌표 수정하여 재시각화
 > ## 📎 부록
-> - 결과 보고서: [`기계학습(2) 결과보고서.pdf`](https://github.com/DavidMao8849/Portfolio/blob/1e657164417397323a4ffb5460da9637fad948b4/Report/1204-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B52-PBL%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%B5%9C%EC%A2%85(%EC%9D%B4%EC%9D%80%EC%9A%B0).pdf)
+> - 결과 보고서: [`기계학습(2) 결과보고서.pdf`](Report/1204-기계학습2-PBL_결과보고서_최종(이은우).pdf)
 > 
 > ---
 > ## 🌟 학습 기대 효과
