@@ -93,6 +93,8 @@
 >
 > [프로젝트 상세 설명](https://github.com/DavidMao8849/Django_Website)
 
+<br />
+
 # 📝Report
 학업중에 작성했던 보고서입니다!<br/>
 핵심내용은 MxNET 프레임워크를 이용한 선형회귀 객체지향 코드 분석을 주제로 작성되어있습니다.
