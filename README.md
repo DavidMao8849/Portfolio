@@ -167,7 +167,9 @@
 > - 잘못된 경우 박스 좌표 수정하여 재시각화
 > ## 📎 부록
 > - 결과 보고서: [`기계학습(2) 결과보고서.pdf`](https://github.com/DavidMao8849/Portfolio/blob/1e657164417397323a4ffb5460da9637fad948b4/Report/1204-%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B52-PBL%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%B5%9C%EC%A2%85(%EC%9D%B4%EC%9D%80%EC%9A%B0).pdf)
+
 <br/>
+
 > ---
 > ## 🌟 학습 기대 효과
 > - MxNET을 통한 모델 설계 및 학습 흐름 이해
